@@ -1,0 +1,10 @@
+svg.chart {
+  font: 10px helvetica, sans-serif;
+  fill: red;
+  text-align: right;
+  stroke: white;
+}
+
+text.rule{
+  stroke: gray;
+}
